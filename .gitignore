@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtualenv
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+.env-mpfin
+*.env
+token.json
+
+# IDE / OS junk
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+
